@@ -12,3 +12,7 @@ Code Fix:if(mousePressedOver(restart)) {
 Bug 3:Obstacles and clouds kept on moving in end state as well
 Code Fix:obstaclesGroup.setVelocityXEach(0);
          cloudsGroup.setVelocityXEach(0);
+         
+ OUTPUT LINK:
+ 
+ https://avaneesh47.github.io/C18-Project/
